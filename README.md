@@ -66,6 +66,7 @@ Feature importance from the Random Forest model was used to:
 - Open the notebook
   jupyter notebook Loan_default_prediction.ipynb
 
+
 👤 Author
 
 ### Suraj Nirgun
